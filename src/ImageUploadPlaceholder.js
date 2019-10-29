@@ -1,4 +1,4 @@
-const Quill = require('quill');
+const Quill = require('react-quill');
 const constant = require('./constant');
 
 const Image = Quill.import('formats/image');
